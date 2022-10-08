@@ -9,5 +9,10 @@ This project (reminder website) is one of my hobby projects. This project contai
 The first section of the page is very simple. The user has to just enter reminder name, description and reminder time and date and hit create.
 
 The second section is interested you will only see the already created reminders and operation button. When you hit on operation button the drop down will appear the drop down contain save, edit and delete. When user hit edit button the field will get editable and then user has to hit save to save it.
+
 ![](screen%20shots/edit%20field.PNG)
+
+
+Four APIs are used create, retrieve, update and delete (CRUD).
+
 
